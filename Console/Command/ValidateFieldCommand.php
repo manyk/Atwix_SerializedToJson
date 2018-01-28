@@ -41,7 +41,7 @@ class ValidateFieldCommand extends Command
     /**
      * Page size
      */
-    const ROWS_PER_PAGE = 1000;
+    const ROWS_PER_PAGE = 100;
 
     /**
      * Output file name
